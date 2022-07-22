@@ -21,4 +21,6 @@ npm run serve
 ```
 npm run build
 ```
+## 实现记录
 
+22/7/22登录模块未完成、用户管理bug
